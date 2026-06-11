@@ -12,7 +12,6 @@ const abersee: CampsiteConfig = {
   see: "Wolfgangsee",
   regionLong: "Wolfgangsee · Salzkammergut · Österreich",
 
-  theme: "alpin",
   heroVariant: "center",
 
   claim: "Dein Saisonplatz direkt am Wolfgangsee",
@@ -123,7 +122,6 @@ const abersee: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.74575, lng: 13.40335 },
     tel: "+43 664 99472337",
     telHref: "tel:+4366499472337",
     mail: "info@abersee.eu",
