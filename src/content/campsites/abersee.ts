@@ -122,6 +122,7 @@ const abersee: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.734841, lng: 13.428066 },
     tel: "+43 664 99472337",
     telHref: "tel:+4366499472337",
     mail: "info@abersee.eu",
