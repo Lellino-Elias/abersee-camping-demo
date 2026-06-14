@@ -32,7 +32,7 @@ const abersee: CampsiteConfig = {
     },
     {
       title: "Sanitärgebäude von 2018",
-      text: "Großzügig und neu: Das Sanitärgebäude von 2018 hält warmes Wasser und viel Platz bereit — und liegt nur ein paar Schritte vom Stellplatz.",
+      text: "Das Sanitärgebäude von 2018 bietet warmes Wasser und viel Platz — nur ein paar Schritte vom Stellplatz entfernt.",
       image: { src: `${IMG}/gallery-f7631a59af.webp`, alt: "Modernes Sanitär- und Servicegebäude von 2018 am Campingplatz Eisl" },
     },
     {
@@ -73,7 +73,7 @@ const abersee: CampsiteConfig = {
     features: [
       {
         title: "Garten am See",
-        text: "Gepflegte Liegewiese mit Blick aufs Wasser — hier breitest du die Decke aus, und der Wolfgangsee liegt nur wenige Schritte entfernt.",
+        text: "Gepflegte Liegewiese mit Blick aufs Wasser — der Wolfgangsee liegt direkt vor dem Platz.",
         image: { src: `${IMG}/gallery-cc0b3e961e.webp`, alt: "Garten und Liegewiese am Seeufer beim Campingplatz Eisl" },
       },
       {
