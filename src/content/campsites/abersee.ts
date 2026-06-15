@@ -28,7 +28,7 @@ const abersee: CampsiteConfig = {
     {
       title: "Privater Seezugang",
       text: "Der Platz hat einen eigenen Zugang zum Wolfgangsee — hier badest du im See und schaust beim Abendessen aufs Wasser.",
-      image: { src: `${IMG}/gallery-29f9151a57.webp`, alt: "Abendstimmung am privaten Seezugang von Camping Eisl am Wolfgangsee" },
+      image: { src: `${IMG}/gallery-6207c319fb.webp`, alt: "Abendstimmung am privaten Seezugang von Camping Eisl am Wolfgangsee" },
     },
     {
       title: "Sanitärgebäude von 2018",
@@ -63,7 +63,7 @@ const abersee: CampsiteConfig = {
   saison: { von: "Nur Saisonplätze", bis: "kein Tagescamping" },
 
   hero: {
-    aerial: { src: `${IMG}/gallery-6c6c9a3d8a.webp`, alt: "Garten am See mit Blick über den Wolfgangsee am Campingplatz Eisl in Abersee" },
+    aerial: { src: `${IMG}/gallery-a741efdb03.webp`, alt: "Gartenweg am Wolfgangsee mit Herbstbäumen und Bergen beim Campingplatz Eisl in Abersee" },
   },
 
   camping: {
@@ -74,7 +74,7 @@ const abersee: CampsiteConfig = {
       {
         title: "Garten am See",
         text: "Gepflegte Liegewiese mit Blick aufs Wasser — der Wolfgangsee liegt direkt vor dem Platz.",
-        image: { src: `${IMG}/gallery-cc0b3e961e.webp`, alt: "Garten und Liegewiese am Seeufer beim Campingplatz Eisl" },
+        image: { src: `${IMG}/gallery-6c6c9a3d8a.webp`, alt: "Garten und Liegewiese am Seeufer beim Campingplatz Eisl" },
       },
       {
         title: "Ruhe im Grünen",
@@ -84,7 +84,7 @@ const abersee: CampsiteConfig = {
       {
         title: "Abende am Wolfgangsee",
         text: "Wenn die Sonne hinter die Berge sinkt, färbt sich der See golden — den Sonnenuntergang hast du direkt vom Platz.",
-        image: { src: `${IMG}/gallery-6207c319fb.webp`, alt: "Sonnenuntergang über dem Wolfgangsee bei Camping Eisl" },
+        image: { src: `${IMG}/gallery-29f9151a57.webp`, alt: "Sonnenuntergang über dem Wolfgangsee bei Camping Eisl" },
       },
     ],
   },
@@ -103,7 +103,9 @@ const abersee: CampsiteConfig = {
     headingEmphasis: "Wolfgangsee",
     intro: "Garten am See, ruhige Stellplätze und goldene Abende — ein paar Eindrücke vom Platz.",
     tag: "Ausschließlich Saisonplätze",
-    images: [],
+    images: [
+      { src: `${IMG}/gallery-cc0b3e961e.webp`, alt: "Sommergarten mit Holzzaun und Blick auf den Wolfgangsee beim Campingplatz Eisl" },
+    ],
   },
 
   booking: {
